@@ -78,7 +78,7 @@ export default function Maps(props) {
   return (
     <LoadScript
       id="script-loader"
-      googleMapsApiKey="AIzaSyDrUm597y3MHxZ6lpLzE_DZP8fSl_Vdgd0"
+      googleMapsApiKey="GOOGLE API KEY"
     >
       <GoogleMap
         mapContainerStyle={{ height: "90vh", width: "100vw" }}
